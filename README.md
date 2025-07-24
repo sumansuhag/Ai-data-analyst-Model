@@ -50,7 +50,7 @@ Before running this project, make sure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sumansuhag/ai-data-analyst.git
+git clone ai-data-analyst.zip
 cd ai-data-analyst
 ```
 
