@@ -1,0 +1,6 @@
+{
+  "name": "AI Data Analyst",
+  "description": "Upload a CSV file and get an instant AI-powered data analysis, including exploratory data analysis (EDA), model suggestions, and performance reports.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
